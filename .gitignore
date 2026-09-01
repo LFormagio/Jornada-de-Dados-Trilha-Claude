@@ -1,0 +1,23 @@
+# Ambientes Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+dist/
+build/
+.env
+
+# MacOS/Windows
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Arquivos de saída
+output/
+reports/

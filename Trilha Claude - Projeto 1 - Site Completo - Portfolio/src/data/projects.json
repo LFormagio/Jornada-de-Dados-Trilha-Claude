@@ -1,0 +1,133 @@
+[
+  {
+    "id": "bi-product-modernization",
+    "category": "data-engineering",
+    "date": "2023",
+    "title": "International BI Product Modernization",
+    "shortDescription": {
+      "pt": "Modernização de produtos internacionais de BI no Microsoft Fabric.",
+      "en": "Modernization of international BI products in Microsoft Fabric."
+    },
+    "metrics": [
+      {
+        "value": "100%",
+        "label": { "pt": "automatizado", "en": "automated" }
+      }
+    ],
+    "technologies": ["Microsoft Fabric", "Lakehouse", "Python", "SQL", "Power BI"]
+  },
+  {
+    "id": "quote-flow-tracker",
+    "category": "bi-products",
+    "date": "2023",
+    "title": "Quote Flow Tracker",
+    "shortDescription": {
+      "pt": "Visão consolidada do ciclo de cotações com rastreabilidade de pendências.",
+      "en": "Consolidated view of the quote cycle with issue traceability."
+    },
+    "metrics": [
+      {
+        "value": "45k+",
+        "label": { "pt": "linhas/mês", "en": "lines/month" }
+      },
+      {
+        "value": "50%",
+        "label": { "pt": "redução de tempo", "en": "time reduction" }
+      }
+    ],
+    "technologies": ["Power BI", "DAX", "SAP BW", "Power Query"]
+  },
+  {
+    "id": "mrp-demand-monitor",
+    "category": "bi-products",
+    "date": "2022",
+    "title": "MRP Demand Monitor",
+    "shortDescription": {
+      "pt": "Monitoramento de previsão de demanda e lucratividade.",
+      "en": "Demand forecasting and profitability monitoring."
+    },
+    "metrics": [
+      {
+        "value": "2sem",
+        "label": { "pt": "para minutos", "en": "to minutes" }
+      }
+    ],
+    "technologies": ["Power BI", "Dataflows", "SAP"]
+  },
+  {
+    "id": "backlog-forecast-insights",
+    "category": "bi-products",
+    "date": "2023",
+    "title": "Backlog & Forecast Insights",
+    "shortDescription": {
+      "pt": "Análises avançadas sobre carteira de pedidos e projeção de faturamento.",
+      "en": "Advanced analytics on order backlog and revenue projection."
+    },
+    "metrics": [
+      {
+        "value": "140+",
+        "label": { "pt": "iniciativas geridas", "en": "initiatives managed" }
+      }
+    ],
+    "technologies": ["Power BI", "DAX", "Dataflows Gen2"]
+  },
+  {
+    "id": "roi-tracker",
+    "category": "bi-products",
+    "date": "2023",
+    "title": "Sample Investment ROI Tracker",
+    "shortDescription": {
+      "pt": "Acompanhamento do retorno sobre amostras e conversão de registros/design-win.",
+      "en": "Tracking sample ROI and registration/design-win conversion."
+    },
+    "metrics": [
+      {
+        "value": "2.5k+",
+        "label": { "pt": "interações", "en": "interactions" }
+      }
+    ],
+    "technologies": ["Power BI", "Databricks", "SAP HANA"]
+  },
+  {
+    "id": "sales-data-intelligence",
+    "category": "automation",
+    "date": "2023",
+    "title": "Sales Data Intelligence System",
+    "shortDescription": {
+      "pt": "Automações e inteligência comercial para geração de documentos e relatórios.",
+      "en": "Automations and commercial intelligence for document and report generation."
+    },
+    "metrics": [
+      {
+        "value": "450",
+        "label": { "pt": "docs/mês", "en": "docs/month" }
+      },
+      {
+        "value": "100h+",
+        "label": { "pt": "economizadas/mês", "en": "saved/month" }
+      }
+    ],
+    "technologies": ["Power Automate", "Teams", "SharePoint"]
+  },
+  {
+    "id": "tcc-inova-fei",
+    "category": "automation",
+    "date": "2026",
+    "title": "Integração BI e Automação (TCC)",
+    "shortDescription": {
+      "pt": "2º Lugar no INOVA FEI: Otimização de 9 atividades e redução de sistemas/telas.",
+      "en": "2nd Place INOVA FEI: Optimization of 9 activities and system/screen reduction."
+    },
+    "metrics": [
+      {
+        "value": "335h",
+        "label": { "pt": "redução mensal", "en": "monthly reduction" }
+      },
+      {
+        "value": "R$90k",
+        "label": { "pt": "economia anual", "en": "annual savings" }
+      }
+    ],
+    "technologies": ["Power BI", "Power Automate", "Otimização Operacional"]
+  }
+]

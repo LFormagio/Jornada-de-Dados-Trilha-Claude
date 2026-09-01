@@ -1,0 +1,26 @@
+/* src/components/theme-toggle/theme-toggle.css */
+.theme-toggle {
+  background: transparent;
+  color: var(--color-text-primary);
+  border: none;
+  box-shadow: var(--shadow-sm);
+  border-radius: var(--radius-sm);
+  padding: var(--spacing-1) var(--spacing-2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.theme-toggle:hover {
+  background: var(--color-bg-tertiary);
+  border-color: var(--color-accent-primary);
+  color: var(--color-accent-primary);
+}
+
+.theme-toggle svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}

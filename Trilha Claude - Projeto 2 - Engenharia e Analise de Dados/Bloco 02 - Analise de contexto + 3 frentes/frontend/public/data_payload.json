@@ -1,0 +1,89 @@
+{
+  "generation_date": "31/08/2026 23:44",
+  "kpis": {
+    "faturamento_total": 974077.28,
+    "ticket_medio": 322.54,
+    "vendas_totais": 3020,
+    "clientes_ativos": 50
+  },
+  "charts": {
+    "categories": {
+      "labels": [
+        "Moda",
+        "Áudio",
+        "Acessórios",
+        "Casa",
+        "Cozinha",
+        "Beleza",
+        "Eletrônicos",
+        "Informática",
+        "Games",
+        "Esporte"
+      ],
+      "values": [
+        248124.15,
+        137061.47,
+        120909.94,
+        112704.52,
+        85059.89,
+        66852.52,
+        62826.28,
+        61410.87,
+        50176.04,
+        24711.59
+      ]
+    },
+    "channels": {
+      "labels": [
+        "ecommerce",
+        "loja_fisica"
+      ],
+      "values": [
+        705486.21,
+        268591.07
+      ]
+    }
+  },
+  "competitors": [
+    {
+      "nome": "Cortina Blackout",
+      "nosso_preco": 68.9,
+      "media_mercado": 69.25,
+      "status": "Vantagem",
+      "badge_class": "win",
+      "margem_dif": 0.5
+    },
+    {
+      "nome": "Cortina Box",
+      "nosso_preco": 32.9,
+      "media_mercado": 32.32,
+      "status": "Atenção",
+      "badge_class": "lose",
+      "margem_dif": -1.79
+    },
+    {
+      "nome": "SSD 500GB",
+      "nosso_preco": 211.9,
+      "media_mercado": 210.84,
+      "status": "Atenção",
+      "badge_class": "lose",
+      "margem_dif": -0.5
+    },
+    {
+      "nome": "Microfone para Stream",
+      "nosso_preco": 140.9,
+      "media_mercado": 136.67,
+      "status": "Atenção",
+      "badge_class": "lose",
+      "margem_dif": -3.1
+    },
+    {
+      "nome": "Frigideira Antiaderente",
+      "nosso_preco": 41.9,
+      "media_mercado": 39.8,
+      "status": "Atenção",
+      "badge_class": "lose",
+      "margem_dif": -5.28
+    }
+  ]
+}

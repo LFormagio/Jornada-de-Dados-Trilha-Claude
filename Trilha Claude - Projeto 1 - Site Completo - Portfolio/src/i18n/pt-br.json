@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "projects": "Projetos",
+    "experience": "Experiência",
+    "skills": "Skills",
+    "about": "Sobre",
+    "certifications": "Certificações",
+    "education": "Formação",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "headline": "Analista de Business Intelligence & Analytics Engineer",
+    "tagline": "Transformando dados e processos em soluções analíticas escaláveis",
+    "metric": {
+      "years": "anos de experiência",
+      "initiatives": "iniciativas gerenciadas",
+      "improvements": "melhorias entregues",
+      "automations": "automações em produção"
+    },
+    "cta": {
+      "projects": "Ver Projetos",
+      "contact": "Entre em Contato"
+    },
+    "scroll": "Role para baixo"
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Soluções com impacto mensurável",
+    "filter": {
+      "all": "Todos",
+      "bi": "BI Products",
+      "automation": "Automação",
+      "ai": "IA",
+      "data": "Data Engineering"
+    },
+    "viewDetails": "Ver detalhes →"
+  },
+  "experience": {
+    "title": "Experiência",
+    "subtitle": "Minha trajetória profissional",
+    "expand": "Ver detalhes",
+    "collapse": "Ocultar detalhes"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "subtitle": "Meu ecossistema tecnológico",
+    "viewAll": "Ver todas as competências"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "subtitle": "Profissional & Idiomas"
+  },
+  "certifications": {
+    "title": "Certificações",
+    "subtitle": "Aprendizado contínuo",
+    "badge": "50+ Certificações",
+    "viewAll": "Ver todas as certificações"
+  },
+  "education": {
+    "title": "Formação",
+    "subtitle": "Base acadêmica"
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Vamos conversar",
+    "linkedin": "Conectar no LinkedIn",
+    "email": "Enviar E-mail",
+    "cv": "Baixar CV"
+  }
+}

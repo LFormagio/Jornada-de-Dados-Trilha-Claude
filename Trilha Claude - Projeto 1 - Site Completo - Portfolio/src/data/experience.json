@@ -1,0 +1,40 @@
+[
+  {
+    "id": "avnet",
+    "company": "Avnet",
+    "logo": "avnet-logo.png",
+    "duration": { "pt": "5 anos 10 meses", "en": "5 years 10 months" },
+    "primaryRole": {
+      "title": { "pt": "Analista de Business Intelligence", "en": "Business Intelligence Analyst" },
+      "date": { "pt": "nov 2022 – presente", "en": "Nov 2022 – present" },
+      "description": {
+        "pt": "Desenvolvimento e evolução de produtos de BI, automações e soluções de IA confiáveis, escaláveis e acionáveis.",
+        "en": "Development and evolution of reliable, scalable, and actionable BI products, automations, and AI solutions."
+      },
+      "achievements": [
+        { "pt": "Liderança do ciclo ponta a ponta: levantamento de requisitos, engenharia de dados, visualização avançada de dados, documentação, garantia de qualidade e suporte para diversas áreas de negócios.", "en": "End-to-end lifecycle leadership: requirements gathering, data engineering, advanced data visualization, documentation, QA, and support for multiple business areas." },
+        { "pt": "Desenvolvimento e evolução do Quote Flow Tracker, monitorando 45.000+ linhas de cotações mensais, reduzindo o tempo de ciclo em aproximadamente 50%.", "en": "Development and evolution of the Quote Flow Tracker, monitoring 45,000+ monthly quote lines, reducing cycle time by approximately 50%." },
+        { "pt": "Implementação do processo centralizado para aprovações de descontos usando Microsoft Fabric e Power BI.", "en": "Implementation of a centralized process for discount approvals using Microsoft Fabric and Power BI." }
+      ],
+      "metrics": [
+        { "value": "140+", "label": { "pt": "iniciativas gerenciadas", "en": "initiatives managed" } },
+        { "value": "85+", "label": { "pt": "melhorias entregues", "en": "improvements delivered" } }
+      ],
+      "technologies": ["Power BI", "Microsoft Fabric", "SAP BW", "Power Automate", "SQL"]
+    },
+    "previousRoles": [
+      {
+        "title": { "pt": "Representante de Vendas Internas", "en": "Inside Sales Representative" },
+        "date": { "pt": "fev 2021 – out 2022", "en": "Feb 2021 – Oct 2022" },
+        "description": { "pt": "Foco em operações comerciais de B2B, automação de rotinas e melhorias de relatórios de desempenho, conectando dados comerciais com estratégias de vendas.", "en": "Focused on B2B commercial operations, routine automation, and performance reporting improvements, connecting commercial data with sales strategies." },
+        "technologies": ["CRM", "Excel Advanced", "Power BI", "Salesforce"]
+      },
+      {
+        "title": { "pt": "Estagiário de Vendas Internas", "en": "Inside Sales Intern" },
+        "date": { "pt": "mar 2019 – fev 2021", "en": "Mar 2019 – Feb 2021" },
+        "description": { "pt": "Apoio a rotinas de vendas e operações analíticas. Inicio do desenvolvimento de automações para extração de dados e suporte a relatórios.", "en": "Support for sales routines and analytical operations. Initiated development of automations for data extraction and report support." },
+        "technologies": ["Excel", "Data Entry", "Process Mapping"]
+      }
+    ]
+  }
+]

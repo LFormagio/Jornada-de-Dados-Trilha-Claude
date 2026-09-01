@@ -1,0 +1,21 @@
+{
+  "name": "Lucas Formagio",
+  "headline": {
+    "pt": "Analista de Business Intelligence",
+    "en": "Business Intelligence Analyst"
+  },
+  "tagline": {
+    "pt": "Transformo dados e processos em soluções escaláveis",
+    "en": "Transforming data and processes into scalable solutions"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/lucasformagio/",
+    "email": "lucasformagio@example.com"
+  },
+  "metrics": {
+    "years": "4+",
+    "initiatives": "140+",
+    "improvements": "85+",
+    "automations": "18"
+  }
+}

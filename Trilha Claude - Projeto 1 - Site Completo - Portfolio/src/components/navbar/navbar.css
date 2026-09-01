@@ -1,0 +1,116 @@
+/* src/components/navbar/navbar.css */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-nav);
+  background: var(--color-glass);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--color-border);
+  transition: padding var(--transition-normal);
+}
+
+.navbar__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 72px;
+}
+
+.navbar.navbar--scrolled .navbar__container {
+  height: 60px;
+}
+
+.navbar__logo {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-2);
+  color: var(--color-text-primary);
+  font-weight: var(--font-weight-bold);
+}
+
+.navbar__logo-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: var(--color-accent-primary);
+  color: #fff;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-family-mono);
+  font-size: var(--font-size-sm);
+}
+
+.navbar__logo-name {
+  font-size: var(--font-size-lg);
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .navbar__logo-name {
+    display: block;
+  }
+}
+
+.navbar__menu {
+  display: none;
+}
+
+.navbar__menu--open {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: var(--color-bg-primary); /* Opaque background */
+  padding: var(--spacing-4);
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: var(--shadow-md);
+}
+
+.navbar__link {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+}
+
+.navbar__link:hover, .navbar__link.active {
+  color: var(--color-accent-primary);
+}
+
+.navbar__actions {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-4);
+}
+
+.navbar__toggle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 30px;
+  height: 30px;
+  color: var(--color-text-primary);
+}
+
+.navbar__toggle-bar {
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: currentColor;
+  transition: all var(--transition-fast);
+}
+
+@media (min-width: 1024px) {
+  .navbar__menu {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-6);
+  }
+  .navbar__toggle {
+    display: none;
+  }
+}

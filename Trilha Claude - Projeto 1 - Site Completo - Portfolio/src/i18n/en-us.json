@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "projects": "Projects",
+    "experience": "Experience",
+    "skills": "Skills",
+    "about": "About",
+    "certifications": "Certifications",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I am",
+    "headline": "Business Intelligence Analyst & Analytics Engineer",
+    "tagline": "Transforming data and processes into scalable analytical solutions",
+    "metric": {
+      "years": "years of experience",
+      "initiatives": "initiatives managed",
+      "improvements": "improvements delivered",
+      "automations": "automations in production"
+    },
+    "cta": {
+      "projects": "View Projects",
+      "contact": "Get in Touch"
+    },
+    "scroll": "Scroll down"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Solutions with measurable impact",
+    "filter": {
+      "all": "All",
+      "bi": "BI Products",
+      "automation": "Automation",
+      "ai": "AI",
+      "data": "Data Engineering"
+    },
+    "viewDetails": "View details →"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey",
+    "expand": "View details",
+    "collapse": "Hide details"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "My technological ecosystem",
+    "viewAll": "View all skills"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Professional & Languages"
+  },
+  "certifications": {
+    "title": "Certifications",
+    "subtitle": "Continuous learning",
+    "badge": "50+ Certifications",
+    "viewAll": "View all certifications"
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Academic background"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's talk",
+    "linkedin": "Connect on LinkedIn",
+    "email": "Send Email",
+    "cv": "Download CV"
+  }
+}

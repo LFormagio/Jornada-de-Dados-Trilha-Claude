@@ -1,0 +1,29 @@
+/* src/components/lang-toggle/lang-toggle.css */
+.lang-toggle {
+  display: flex;
+  background: var(--color-bg-primary);
+  border: none;
+  box-shadow: var(--shadow-sm);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.lang-toggle__btn {
+  background: transparent;
+  color: var(--color-text-secondary);
+  padding: var(--spacing-1) var(--spacing-2);
+  font-family: var(--font-family-mono);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-bold);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.lang-toggle__btn:hover {
+  color: var(--color-text-primary);
+}
+
+.lang-toggle__btn--active {
+  background: var(--color-accent-primary);
+  color: #fff;
+}

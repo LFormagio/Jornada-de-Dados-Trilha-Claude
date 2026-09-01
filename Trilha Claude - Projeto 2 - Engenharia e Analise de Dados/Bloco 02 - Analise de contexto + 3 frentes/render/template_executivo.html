@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang='pt-BR'>
+<head>
+  <meta charset='UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  <title>Analytics Executivo - E-Commerce</title>
+  
+  <!-- CSS Embutido -->
+  <style>
+    /*__CSS_TOKENS__*/
+    /*__CSS_LAYOUT__*/
+    /*__CSS_COMPONENTS__*/
+  </style>
+  
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="dashboard-container">
+    
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="brand">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 3v18h18"/><path d="m19 9-5 5-4-4-3 3"/>
+        </svg>
+        DataDash
+      </div>
+      <div style="color: var(--color-text-secondary); font-size: 0.85rem; margin-top: auto;">
+        Gerado em:<br>
+        <span style="color: var(--color-text-primary); font-weight: 500;"><!--__GENERATION_DATE__--></span>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      
+      <div class="top-bar">
+        <h1 class="page-title">Visão Geral de Vendas</h1>
+      </div>
+
+      <!-- KPIs Primários -->
+      <section class="kpi-grid">
+        <div class="card">
+          <div class="card-title">Faturamento Total</div>
+          <div class="kpi-value">R$ <!--__KPI_FATURAMENTO__--></div>
+          <div class="trend-positive">Performance Geral</div>
+        </div>
+        <div class="card">
+          <div class="card-title">Ticket Médio</div>
+          <div class="kpi-value">R$ <!--__KPI_TICKET__--></div>
+          <div style="color: var(--color-text-secondary); font-size: 0.85rem;">Por compra</div>
+        </div>
+        <div class="card">
+          <div class="card-title">Vendas Totais</div>
+          <div class="kpi-value"><!--__KPI_VENDAS__--></div>
+          <div style="color: var(--color-text-secondary); font-size: 0.85rem;">Volume transacionado</div>
+        </div>
+        <div class="card">
+          <div class="card-title">Clientes Ativos</div>
+          <div class="kpi-value"><!--__KPI_CLIENTES__--></div>
+          <div style="color: var(--color-text-secondary); font-size: 0.85rem;">Na base de dados</div>
+        </div>
+      </section>
+
+      <!-- Gráficos -->
+      <section class="charts-grid">
+        <div class="card">
+          <div class="card-title">Vendas por Categoria</div>
+          <canvas id="categoryChart" style="width: 100%; height: 300px;"></canvas>
+        </div>
+        <div class="card">
+          <div class="card-title">Canais de Venda</div>
+          <canvas id="channelChart" style="width: 100%; height: 300px;"></canvas>
+        </div>
+      </section>
+
+      <!-- Análise de Concorrência -->
+      <section class="card table-section">
+        <div class="card-title" style="margin-bottom: 1rem;">Oportunidades x Concorrentes (Top 5 Produtos)</div>
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Produto</th>
+              <th>Nosso Preço</th>
+              <th>Média Mercado</th>
+              <th>Status</th>
+              <th>Margem Dif.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!--__COMPETITOR_TABLE_ROWS__-->
+          </tbody>
+        </table>
+      </section>
+
+    </main>
+  </div>
+
+  <script>
+    // Payload injetado pelo Python
+    const chartData = /*__CHART_DATA_JSON__*/;
+    
+    /*__JS_SCRIPTS__*/
+  </script>
+</body>
+</html>

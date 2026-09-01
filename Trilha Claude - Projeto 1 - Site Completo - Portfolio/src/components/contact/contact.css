@@ -1,0 +1,49 @@
+/* src/components/contact/contact.css */
+.contact__cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: var(--spacing-6);
+  margin-top: var(--spacing-8);
+  width: 100%;
+}
+
+.contact__card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--spacing-4);
+  background: var(--color-bg-primary);
+  border: none;
+  box-shadow: var(--shadow-sm);
+  padding: var(--spacing-6) var(--spacing-8);
+  border-radius: var(--radius-lg);
+  color: var(--color-text-primary);
+  text-decoration: none;
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-lg);
+  transition: all var(--transition-normal);
+  cursor: pointer;
+  outline: none;
+}
+
+.contact__card:hover {
+  transform: translateY(-4px);
+  border-color: var(--color-accent-hover);
+  box-shadow: var(--shadow-md);
+}
+
+.contact__card--primary {
+  background: var(--color-accent-primary);
+  border-color: var(--color-accent-primary);
+  color: #ffffff;
+}
+
+.contact__card--primary:hover {
+  background: var(--color-accent-hover);
+  border-color: var(--color-accent-hover);
+  color: #ffffff;
+}
+
+.contact__icon {
+  font-size: var(--font-size-2xl);
+}

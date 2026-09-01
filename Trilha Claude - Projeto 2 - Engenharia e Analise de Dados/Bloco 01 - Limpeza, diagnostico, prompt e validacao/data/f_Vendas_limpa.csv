@@ -1,0 +1,30 @@
+ID Pedido,Nome do Cliente,Região,Representante,Data do Pedido,Receita,Produto,Status,Observações
+1001,João Silva,Sudeste,Sara Jorge,15/01/2024,"R$ 4.320,00",Licença de Software,Fechado Ganho,
+1002,Maria Souza,Sudeste,Sara Jorge,22/01/2024,"R$ 1.150,00",Consultoria,Fechado Ganho,
+1003,Pedro Oliveira,Sul,Bruno Carvalho,05/01/2024,"R$ 8.900,00",Hardware,Fechado Ganho,cliente recorrente
+1004,Emília Dias,Centro-Oeste,Tomás Bastos,03/02/2024,"R$ 2.200,00",Licença de Software,Fechado Perdido,
+1006,Carlos Ribeiro,,Tomás Bastos,14/02/2024,"R$ 3.750,00",Consultoria,Fechado Ganho,
+1007,Linda Nunes,Centro-Oeste,Tomás Bastos,20/02/2024,"R$ 990,00",Hardware,Fechado Perdido,
+1008,Jaime Torres,Nordeste,Raquel Verde,03/03/2024,"R$ 12.400,00",Pacote Empresarial,Fechado Ganho,
+1009,Priscila Pinto,Sul,Bruno Carvalho,10/03/2024,,Licença de Software,Fechado Ganho,receita ausente
+1010,Kevin Barros,Norte,Sara Jorge,15/03/2024,"R$ 2.100,00",Consultoria,Fechado Ganho,
+1011,Susana Hall,Centro-Oeste,Tomás Bastos,22/03/2024,"R$ 5.600,00",Licença de Software,Fechado Ganho,
+1012,Dérico Mendes,Nordeste,Raquel Verde,01/04/2024,"R$ 3.300,00",Hardware,Fechado Ganho,
+1013,Tânia Braga,Sul,Bruno Carvalho,08/04/2024,"R$ 1.800,00",Consultoria,Fechado Perdido,
+1014,Jaime Torres,Nordeste,Raquel Verde,12/04/2024,"R$ 12.400,00",Pacote Empresarial,Fechado Ganho,possível duplicado
+1015,Nina Prado,Norte,Sara Jorge,19/04/2024,"R$ 7.250,00",Licença de Software,Fechado Ganho,
+1016,Gabriel Stein,,Bruno Carvalho,25/04/2024,"R$ 4.100,00",Hardware,Fechado Ganho,
+1017,Emília Dias,Centro-Oeste,Tomás Bastos,02/05/2024,"R$ 2.200,00",Licença de Software,Fechado Perdido,
+1018,Raquel Quintana,Nordeste,Raquel Verde,09/05/2024,"R$ 9.800,00",Pacote Empresarial,Fechado Ganho,
+1019,Tomé Neves,Sul,Bruno Carvalho,17/05/2024,"R$ 660,00",Consultoria,Fechado Ganho,
+1020,Patrícia Leme,Norte,Sara Jorge,23/05/2024,"R$ 3.400,00",Licença de Software,Fechado Ganho,
+1021,Vítor Reis,Centro-Oeste,Tomás Bastos,02/06/2024,,Consultoria,Fechado Ganho,receita ausente
+1022,Carina Valente,Norte,Sara Jorge,10/06/2024,"R$ 5.100,00",Licença de Software,Fechado Ganho,
+1023,Breno Tavares,Sul,Bruno Carvalho,18/06/2024,"R$ 2.900,00",Hardware,Fechado Perdido,
+1024,Samanta Coelho,Nordeste,Raquel Verde,25/06/2024,"R$ 8.700,00",Pacote Empresarial,Fechado Ganho,
+1025,Linda Nunes,Centro-Oeste,Tomás Bastos,28/06/2024,"R$ 990,00",Hardware,Fechado Ganho,
+1026,Priscila Pinto,Sul,Bruno Carvalho,04/07/2024,"R$ 3.200,00",Licença de Software,Fechado Ganho,
+1027,Daniel Parente,Norte,,11/07/2024,"R$ 1.450,00",Consultoria,Fechado Ganho,sem representante
+1028,Mônica Belo,Nordeste,Raquel Verde,19/07/2024,"R$ 6.600,00",Licença de Software,Fechado Ganho,
+1029,Carlos Ribeiro,Centro-Oeste,Tomás Bastos,26/07/2024,"R$ 3.750,00",Consultoria,Fechado Ganho,possível duplicado
+1030,Fábio Duarte,Sul,Bruno Carvalho,02/08/2024,"R$ 4.800,00",Hardware,Fechado Ganho,

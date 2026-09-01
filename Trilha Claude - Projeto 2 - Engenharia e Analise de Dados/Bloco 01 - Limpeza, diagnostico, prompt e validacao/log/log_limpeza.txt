@@ -1,0 +1,479 @@
+LOG DE LIMPEZA — f_Vendas.csv
+Data de execução: 31/08/2026 22:32:17
+Total de alterações: 79
+================================================================================
+
+[001] ID Pedido: 1007
+      Coluna:  Status
+      Antes:   (vazio)
+      Depois:  fechado perdido
+      Motivo:  Movido da coluna Observações para Status
+--------------------------------------------------------------------------------
+[002] ID Pedido: 1007
+      Coluna:  Observações
+      Antes:   fechado perdido
+      Depois:  
+      Motivo:  Valor movido para coluna Status
+--------------------------------------------------------------------------------
+[003] ID Pedido: 1005
+      Coluna:  (registro)
+      Antes:   presente
+      Depois:  REMOVIDO
+      Motivo:  Duplicado exato confirmado de ID 1001 (mesmo cliente, data, receita, produto)
+--------------------------------------------------------------------------------
+[004] ID Pedido: 1002
+      Coluna:  Nome do Cliente
+      Antes:   maria souza
+      Depois:  Maria Souza
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[005] ID Pedido: 1002
+      Coluna:  Região
+      Antes:   sudeste
+      Depois:  Sudeste
+      Motivo:  Padronizado casing da região
+--------------------------------------------------------------------------------
+[006] ID Pedido: 1002
+      Coluna:  Representante
+      Antes:   sara jorge
+      Depois:  Sara Jorge
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[007] ID Pedido: 1002
+      Coluna:  Status
+      Antes:   fechado ganho
+      Depois:  Fechado Ganho
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[008] ID Pedido: 1003
+      Coluna:  Nome do Cliente
+      Antes:   PEDRO OLIVEIRA
+      Depois:  Pedro Oliveira
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[009] ID Pedido: 1003
+      Coluna:  Região
+      Antes:   SUL
+      Depois:  Sul
+      Motivo:  Padronizado casing da região
+--------------------------------------------------------------------------------
+[010] ID Pedido: 1003
+      Coluna:  Representante
+      Antes:   BRUNO CARVALHO
+      Depois:  Bruno Carvalho
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[011] ID Pedido: 1007
+      Coluna:  Nome do Cliente
+      Antes:   linda nunes
+      Depois:  Linda Nunes
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[012] ID Pedido: 1007
+      Coluna:  Status
+      Antes:   fechado perdido
+      Depois:  Fechado Perdido
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[013] ID Pedido: 1008
+      Coluna:  Nome do Cliente
+      Antes:   JAIME TORRES
+      Depois:  Jaime Torres
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[014] ID Pedido: 1008
+      Coluna:  Representante
+      Antes:   RAQUEL VERDE
+      Depois:  Raquel Verde
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[015] ID Pedido: 1010
+      Coluna:  Nome do Cliente
+      Antes:   kevin barros
+      Depois:  Kevin Barros
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[016] ID Pedido: 1010
+      Coluna:  Representante
+      Antes:   sara jorge
+      Depois:  Sara Jorge
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[017] ID Pedido: 1011
+      Coluna:  Status
+      Antes:   fechado ganho
+      Depois:  Fechado Ganho
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[018] ID Pedido: 1012
+      Coluna:  Nome do Cliente
+      Antes:   DÉRICO MENDES
+      Depois:  Dérico Mendes
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[019] ID Pedido: 1012
+      Coluna:  Região
+      Antes:   NORDESTE
+      Depois:  Nordeste
+      Motivo:  Padronizado casing da região
+--------------------------------------------------------------------------------
+[020] ID Pedido: 1012
+      Coluna:  Representante
+      Antes:   RAQUEL VERDE
+      Depois:  Raquel Verde
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[021] ID Pedido: 1014
+      Coluna:  Nome do Cliente
+      Antes:   jaime torres
+      Depois:  Jaime Torres
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[022] ID Pedido: 1017
+      Coluna:  Nome do Cliente
+      Antes:   EMÍLIA DIAS
+      Depois:  Emília Dias
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[023] ID Pedido: 1017
+      Coluna:  Representante
+      Antes:   TOMÁS BASTOS
+      Depois:  Tomás Bastos
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[024] ID Pedido: 1019
+      Coluna:  Nome do Cliente
+      Antes:   tomé neves
+      Depois:  Tomé Neves
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[025] ID Pedido: 1019
+      Coluna:  Região
+      Antes:   sul
+      Depois:  Sul
+      Motivo:  Padronizado casing da região
+--------------------------------------------------------------------------------
+[026] ID Pedido: 1019
+      Coluna:  Representante
+      Antes:   bruno carvalho
+      Depois:  Bruno Carvalho
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[027] ID Pedido: 1019
+      Coluna:  Status
+      Antes:   closed won
+      Depois:  Fechado Ganho
+      Motivo:  Traduzido de inglês para português
+--------------------------------------------------------------------------------
+[028] ID Pedido: 1022
+      Coluna:  Nome do Cliente
+      Antes:   CARINA VALENTE
+      Depois:  Carina Valente
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[029] ID Pedido: 1022
+      Coluna:  Região
+      Antes:   NORTE
+      Depois:  Norte
+      Motivo:  Padronizado casing da região
+--------------------------------------------------------------------------------
+[030] ID Pedido: 1022
+      Coluna:  Representante
+      Antes:   SARA JORGE
+      Depois:  Sara Jorge
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[031] ID Pedido: 1025
+      Coluna:  Nome do Cliente
+      Antes:   linda nunes
+      Depois:  Linda Nunes
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[032] ID Pedido: 1026
+      Coluna:  Nome do Cliente
+      Antes:   PRISCILA PINTO
+      Depois:  Priscila Pinto
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[033] ID Pedido: 1026
+      Coluna:  Status
+      Antes:   fechado ganho
+      Depois:  Fechado Ganho
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[034] ID Pedido: 1029
+      Coluna:  Nome do Cliente
+      Antes:   carlos ribeiro
+      Depois:  Carlos Ribeiro
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[035] ID Pedido: 1029
+      Coluna:  Região
+      Antes:   Centro-oeste
+      Depois:  Centro-Oeste
+      Motivo:  Padronizado casing da região
+--------------------------------------------------------------------------------
+[036] ID Pedido: 1030
+      Coluna:  Nome do Cliente
+      Antes:   FÁBIO DUARTE
+      Depois:  Fábio Duarte
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[037] ID Pedido: 1030
+      Coluna:  Região
+      Antes:   SUL
+      Depois:  Sul
+      Motivo:  Padronizado casing da região
+--------------------------------------------------------------------------------
+[038] ID Pedido: 1030
+      Coluna:  Representante
+      Antes:   BRUNO CARVALHO
+      Depois:  Bruno Carvalho
+      Motivo:  Padronizado para Title Case
+--------------------------------------------------------------------------------
+[039] ID Pedido: 1002
+      Coluna:  Data do Pedido
+      Antes:   2024-01-22
+      Depois:  22/01/2024
+      Motivo:  Convertido de ISO (AAAA-MM-DD) para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[040] ID Pedido: 1003
+      Coluna:  Data do Pedido
+      Antes:   5 jan. 2024
+      Depois:  05/01/2024
+      Motivo:  Convertido de extenso para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[041] ID Pedido: 1007
+      Coluna:  Data do Pedido
+      Antes:   2024-02-20
+      Depois:  20/02/2024
+      Motivo:  Convertido de ISO (AAAA-MM-DD) para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[042] ID Pedido: 1008
+      Coluna:  Data do Pedido
+      Antes:   3 março 2024
+      Depois:  03/03/2024
+      Motivo:  Convertido de extenso para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[043] ID Pedido: 1010
+      Coluna:  Data do Pedido
+      Antes:   2024-03-15
+      Depois:  15/03/2024
+      Motivo:  Convertido de ISO (AAAA-MM-DD) para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[044] ID Pedido: 1012
+      Coluna:  Data do Pedido
+      Antes:   1 abr. 2024
+      Depois:  01/04/2024
+      Motivo:  Convertido de extenso para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[045] ID Pedido: 1014
+      Coluna:  Data do Pedido
+      Antes:   2024-04-12
+      Depois:  12/04/2024
+      Motivo:  Convertido de ISO (AAAA-MM-DD) para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[046] ID Pedido: 1017
+      Coluna:  Data do Pedido
+      Antes:   2 maio 2024
+      Depois:  02/05/2024
+      Motivo:  Convertido de extenso para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[047] ID Pedido: 1019
+      Coluna:  Data do Pedido
+      Antes:   2024-05-17
+      Depois:  17/05/2024
+      Motivo:  Convertido de ISO (AAAA-MM-DD) para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[048] ID Pedido: 1022
+      Coluna:  Data do Pedido
+      Antes:   10 jun. 2024
+      Depois:  10/06/2024
+      Motivo:  Convertido de extenso para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[049] ID Pedido: 1024
+      Coluna:  Data do Pedido
+      Antes:   2024-06-25
+      Depois:  25/06/2024
+      Motivo:  Convertido de ISO (AAAA-MM-DD) para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[050] ID Pedido: 1026
+      Coluna:  Data do Pedido
+      Antes:   4 jul. 2024
+      Depois:  04/07/2024
+      Motivo:  Convertido de extenso para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[051] ID Pedido: 1029
+      Coluna:  Data do Pedido
+      Antes:   2024-07-26
+      Depois:  26/07/2024
+      Motivo:  Convertido de ISO (AAAA-MM-DD) para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[052] ID Pedido: 1030
+      Coluna:  Data do Pedido
+      Antes:   2 ago. 2024
+      Depois:  02/08/2024
+      Motivo:  Convertido de extenso para DD/MM/AAAA
+--------------------------------------------------------------------------------
+[053] ID Pedido: 1001
+      Coluna:  Receita
+      Antes:   R$ 4320.00
+      Depois:  R$ 4.320,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[054] ID Pedido: 1002
+      Coluna:  Receita
+      Antes:   R$ 1150.00
+      Depois:  R$ 1.150,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[055] ID Pedido: 1003
+      Coluna:  Receita
+      Antes:   R$ 8900.00
+      Depois:  R$ 8.900,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[056] ID Pedido: 1004
+      Coluna:  Receita
+      Antes:   R$ 2200.00
+      Depois:  R$ 2.200,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[057] ID Pedido: 1006
+      Coluna:  Receita
+      Antes:   R$ 3750.00
+      Depois:  R$ 3.750,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[058] ID Pedido: 1007
+      Coluna:  Receita
+      Antes:   R$ 990.00
+      Depois:  R$ 990,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[059] ID Pedido: 1008
+      Coluna:  Receita
+      Antes:   R$ 12400.00
+      Depois:  R$ 12.400,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[060] ID Pedido: 1010
+      Coluna:  Receita
+      Antes:   R$ 2100.00
+      Depois:  R$ 2.100,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[061] ID Pedido: 1011
+      Coluna:  Receita
+      Antes:   R$ 5600.00
+      Depois:  R$ 5.600,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[062] ID Pedido: 1012
+      Coluna:  Receita
+      Antes:   R$ 3300.00
+      Depois:  R$ 3.300,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[063] ID Pedido: 1013
+      Coluna:  Receita
+      Antes:   R$ 1800.00
+      Depois:  R$ 1.800,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[064] ID Pedido: 1014
+      Coluna:  Receita
+      Antes:   R$ 12400.00
+      Depois:  R$ 12.400,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[065] ID Pedido: 1015
+      Coluna:  Receita
+      Antes:   R$ 7250.00
+      Depois:  R$ 7.250,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[066] ID Pedido: 1016
+      Coluna:  Receita
+      Antes:   R$ 4100.00
+      Depois:  R$ 4.100,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[067] ID Pedido: 1017
+      Coluna:  Receita
+      Antes:   R$ 2200.00
+      Depois:  R$ 2.200,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[068] ID Pedido: 1018
+      Coluna:  Receita
+      Antes:   R$ 9800.00
+      Depois:  R$ 9.800,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[069] ID Pedido: 1019
+      Coluna:  Receita
+      Antes:   R$ 660.00
+      Depois:  R$ 660,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[070] ID Pedido: 1020
+      Coluna:  Receita
+      Antes:   R$ 3400.00
+      Depois:  R$ 3.400,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[071] ID Pedido: 1022
+      Coluna:  Receita
+      Antes:   R$ 5100.00
+      Depois:  R$ 5.100,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[072] ID Pedido: 1023
+      Coluna:  Receita
+      Antes:   R$ 2900.00
+      Depois:  R$ 2.900,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[073] ID Pedido: 1024
+      Coluna:  Receita
+      Antes:   R$ 8700.00
+      Depois:  R$ 8.700,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[074] ID Pedido: 1025
+      Coluna:  Receita
+      Antes:   R$ 990.00
+      Depois:  R$ 990,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[075] ID Pedido: 1026
+      Coluna:  Receita
+      Antes:   R$ 3200.00
+      Depois:  R$ 3.200,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[076] ID Pedido: 1027
+      Coluna:  Receita
+      Antes:   R$ 1450.00
+      Depois:  R$ 1.450,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[077] ID Pedido: 1028
+      Coluna:  Receita
+      Antes:   R$ 6600.00
+      Depois:  R$ 6.600,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[078] ID Pedido: 1029
+      Coluna:  Receita
+      Antes:   R$ 3750.00
+      Depois:  R$ 3.750,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------
+[079] ID Pedido: 1030
+      Coluna:  Receita
+      Antes:   R$ 4800.00
+      Depois:  R$ 4.800,00
+      Motivo:  Formatado para padrão monetário brasileiro
+--------------------------------------------------------------------------------

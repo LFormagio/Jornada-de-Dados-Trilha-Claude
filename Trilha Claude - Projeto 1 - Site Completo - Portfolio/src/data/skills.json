@@ -1,0 +1,322 @@
+[
+  {
+    "category": {
+      "pt": "BI & Analytics",
+      "en": "BI & Analytics"
+    },
+    "skills": [
+      {
+        "name": "Power BI",
+        "primary": true
+      },
+      {
+        "name": "DAX",
+        "primary": true
+      },
+      {
+        "name": "Power Query",
+        "primary": true
+      },
+      {
+        "name": "Data Visualization",
+        "primary": false
+      },
+      {
+        "name": "Dashboarding",
+        "primary": false
+      },
+      {
+        "name": "SSAS",
+        "primary": false
+      },
+      {
+        "name": "Tableau",
+        "primary": false
+      },
+      {
+        "name": "Microsoft Power BI",
+        "primary": false
+      },
+      {
+        "name": "Microsoft Power Query",
+        "primary": false
+      },
+      {
+        "name": "Visualização de dados",
+        "primary": false
+      },
+      {
+        "name": "Business Intelligence (BI)",
+        "primary": false
+      },
+      {
+        "name": "Habilidades analíticas",
+        "primary": false
+      },
+      {
+        "name": "KPI Implementation",
+        "primary": false
+      },
+      {
+        "name": "Análise de dados",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "category": {
+      "pt": "Engenharia de Dados",
+      "en": "Data Engineering"
+    },
+    "skills": [
+      {
+        "name": "Microsoft Fabric",
+        "primary": true
+      },
+      {
+        "name": "SQL Server",
+        "primary": true
+      },
+      {
+        "name": "PySpark",
+        "primary": true
+      },
+      {
+        "name": "Databricks",
+        "primary": true
+      },
+      {
+        "name": "Azure Data Factory",
+        "primary": false
+      },
+      {
+        "name": "Dataflows",
+        "primary": false
+      },
+      {
+        "name": "Data Warehousing",
+        "primary": false
+      },
+      {
+        "name": "ETL/ELT",
+        "primary": false
+      },
+      {
+        "name": "dbt",
+        "primary": false
+      },
+      {
+        "name": "SQL",
+        "primary": false
+      },
+      {
+        "name": "Lakehouse",
+        "primary": false
+      },
+      {
+        "name": "ETL",
+        "primary": false
+      },
+      {
+        "name": "Pipeline de dados",
+        "primary": false
+      },
+      {
+        "name": "Modelagem de dados",
+        "primary": false
+      },
+      {
+        "name": "Governança de dados",
+        "primary": false
+      },
+      {
+        "name": "Integração de dados",
+        "primary": false
+      },
+      {
+        "name": "Arquitetura de dados",
+        "primary": false
+      },
+      {
+        "name": "Engenharia de dados",
+        "primary": false
+      },
+      {
+        "name": "Operação de dados",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "category": {
+      "pt": "Automação & ERP",
+      "en": "Automation & ERP"
+    },
+    "skills": [
+      {
+        "name": "Power Automate",
+        "primary": true
+      },
+      {
+        "name": "SAP BW",
+        "primary": true
+      },
+      {
+        "name": "SharePoint",
+        "primary": true
+      },
+      {
+        "name": "RPA",
+        "primary": true
+      },
+      {
+        "name": "Microsoft Power Automate",
+        "primary": false
+      },
+      {
+        "name": "SAP HANA",
+        "primary": false
+      },
+      {
+        "name": "SAP BusinessObjects",
+        "primary": false
+      },
+      {
+        "name": "TOTVS Protheus",
+        "primary": false
+      },
+      {
+        "name": "SAP-SD",
+        "primary": false
+      },
+      {
+        "name": "VBA",
+        "primary": false
+      },
+      {
+        "name": "Microsoft Excel",
+        "primary": false
+      },
+      {
+        "name": "Automação de processos",
+        "primary": false
+      },
+      {
+        "name": "Gestão de relacionamento com o cliente (CRM)",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "category": {
+      "pt": "IA & Programação",
+      "en": "AI & Programming"
+    },
+    "skills": [
+      {
+        "name": "Python",
+        "primary": true
+      },
+      {
+        "name": "Machine Learning",
+        "primary": true
+      },
+      {
+        "name": "Scikit-Learn",
+        "primary": true
+      },
+      {
+        "name": "Pandas",
+        "primary": true
+      },
+      {
+        "name": "Git/GitHub",
+        "primary": false
+      },
+      {
+        "name": "Prompt Engineering",
+        "primary": false
+      },
+      {
+        "name": "Artificial Intelligence (AI)",
+        "primary": false
+      },
+      {
+        "name": "AI Agents",
+        "primary": false
+      },
+      {
+        "name": "Docker",
+        "primary": false
+      },
+      {
+        "name": "Linux",
+        "primary": false
+      },
+      {
+        "name": "Infra",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "category": {
+      "pt": "Gestão & Negócios",
+      "en": "Management & Business"
+    },
+    "skills": [
+      {
+        "name": "Metodologias Agile",
+        "primary": true
+      },
+      {
+        "name": "Scrum",
+        "primary": true
+      },
+      {
+        "name": "Gestão de projetos",
+        "primary": true
+      },
+      {
+        "name": "Gestão de inovação",
+        "primary": true
+      },
+      {
+        "name": "Planejamento estratégico",
+        "primary": false
+      },
+      {
+        "name": "Business Analysis",
+        "primary": false
+      },
+      {
+        "name": "Seis Sigma",
+        "primary": false
+      },
+      {
+        "name": "Otimização de processos",
+        "primary": false
+      },
+      {
+        "name": "Melhoria de processos",
+        "primary": false
+      },
+      {
+        "name": "Liderança",
+        "primary": false
+      },
+      {
+        "name": "Visão estratégica",
+        "primary": false
+      },
+      {
+        "name": "Desenvolvimento de negócios",
+        "primary": false
+      },
+      {
+        "name": "Vendas",
+        "primary": false
+      }
+    ]
+  }
+]

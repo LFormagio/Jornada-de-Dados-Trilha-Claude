@@ -1,0 +1,11 @@
+{
+  "bio": {
+    "pt": "Sou um Analista de Business Intelligence e Analytics Engineer movido pela missão de transformar dados e processos comerciais complexos em soluções analíticas escaláveis, produtos de BI, automações e IA. Com mais de 4 anos de experiência na interseção entre tecnologia e negócios, atuo de ponta a ponta: do levantamento de requisitos com stakeholders à engenharia de dados e visualização avançada.",
+    "en": "I am a Business Intelligence Analyst and Analytics Engineer driven by the mission to transform complex commercial data and processes into scalable analytical solutions, BI products, automations, and AI. With over 4 years of experience at the intersection of technology and business, I work end-to-end: from requirements gathering with stakeholders to data engineering and advanced visualization."
+  },
+  "languages": [
+    { "name": { "pt": "Português", "en": "Portuguese" }, "level": { "pt": "Nativo", "en": "Native" } },
+    { "name": { "pt": "Inglês", "en": "English" }, "level": { "pt": "Avançado / Fluente", "en": "Advanced / Fluent" } },
+    { "name": { "pt": "Espanhol", "en": "Spanish" }, "level": { "pt": "Básico", "en": "Basic" } }
+  ]
+}

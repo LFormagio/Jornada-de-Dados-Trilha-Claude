@@ -1,0 +1,24 @@
+[
+  {
+    "id": "fei",
+    "institution": "Centro Universitário FEI",
+    "degree": {
+      "pt": "Bacharelado em Engenharia de Produção",
+      "en": "Bachelor of Production Engineering"
+    },
+    "date": {
+      "pt": "fev 2020 – jun 2026",
+      "en": "Feb 2020 – Jun 2026"
+    },
+    "description": {
+      "pt": "Formação com forte base analítica, matemática e otimização de processos.",
+      "en": "Education with strong analytical, mathematical, and process optimization foundations."
+    },
+    "highlights": [
+      {
+        "pt": "2º Lugar no Prêmio INOVA FEI pelo projeto de conclusão de curso focado em otimização operacional.",
+        "en": "2nd Place at INOVA FEI Award for the capstone project focused on operational optimization."
+      }
+    ]
+  }
+]

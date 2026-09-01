@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cert-0",
+    "name": "Infra, Linux, Docker",
+    "issuer": "Jornada de Dados",
+    "date": "Jul 2026"
+  },
+  {
+    "id": "cert-1",
+    "name": "Claude 101",
+    "issuer": "Anthropic",
+    "date": "Jul 2026"
+  },
+  {
+    "id": "cert-2",
+    "name": "AI Foundations",
+    "issuer": "OpenAI",
+    "date": "Jul 2026"
+  },
+  {
+    "id": "cert-3",
+    "name": "Python - Como estruturar o seu projeto de dados do zero",
+    "issuer": "Jornada de Dados",
+    "date": "Jul 2026"
+  },
+  {
+    "id": "cert-4",
+    "name": "Agent Harness Avançado",
+    "issuer": "Jornada de Dados",
+    "date": "Jun 2026"
+  },
+  {
+    "id": "cert-5",
+    "name": "Microsoft Fabric - Pipeline de Dados, Arquitetura Medalhão e IA",
+    "issuer": "Jornada de Dados",
+    "date": "Jun 2026"
+  },
+  {
+    "id": "cert-6",
+    "name": "Getting Started with Deep Learning",
+    "issuer": "NVIDIA",
+    "date": "May 2026"
+  },
+  {
+    "id": "cert-7",
+    "name": "Certificado oficial EF SET 66/100 (C1 Proficiência Eficaz)",
+    "issuer": "EF SET",
+    "date": "Apr 2026"
+  },
+  {
+    "id": "cert-8",
+    "name": "Git e GitHub",
+    "issuer": "Jornada de Dados",
+    "date": "Apr 2026"
+  },
+  {
+    "id": "cert-9",
+    "name": "Antigravity + Google Gemine CLI",
+    "issuer": "Jornada de Dados",
+    "date": "Mar 2026"
+  },
+  {
+    "id": "cert-10",
+    "name": "Transformando Dados em Informação - TDI 2.0",
+    "issuer": "DATTA",
+    "date": "Mar 2026"
+  },
+  {
+    "id": "cert-11",
+    "name": "Fundamentals of Agentic AI: Business Implications and Ethical Insights",
+    "issuer": "LinkedIn",
+    "date": "Mar 2026"
+  },
+  {
+    "id": "cert-12",
+    "name": "Microsoft Copilot: The Art of Prompt Writing",
+    "issuer": "LinkedIn",
+    "date": "Mar 2026"
+  },
+  {
+    "id": "cert-13",
+    "name": "Avnet Cybersecurity Awareness Training",
+    "issuer": "Avnet",
+    "date": "Mar 2026"
+  },
+  {
+    "id": "cert-14",
+    "name": "Get Started with SQL Analytics and BI on Databricks",
+    "issuer": "Databricks",
+    "date": "Jul 2025"
+  },
+  {
+    "id": "cert-15",
+    "name": "Databricks Fundamentals",
+    "issuer": "Databricks",
+    "date": "Jul 2025"
+  },
+  {
+    "id": "cert-16",
+    "name": "Become a Business Intelligence Specialist",
+    "issuer": "LinkedIn",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "cert-17",
+    "name": "Power BI: Integrating AI and Machine Learning",
+    "issuer": "LinkedIn",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "cert-18",
+    "name": "Data Visualization for Data Analysis and Analytics (2020)",
+    "issuer": "LinkedIn",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "cert-19",
+    "name": "Marketing Analytics: Setting and Measuring KPIs",
+    "issuer": "LinkedIn",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "cert-20",
+    "name": "Financial Forecasting with Analytics Essential Training",
+    "issuer": "LinkedIn",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "cert-21",
+    "name": "Using Tableau to Discover Powerful Business Insights",
+    "issuer": "LinkedIn",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "cert-22",
+    "name": "Data Literacy: Exploring and Describing Data",
+    "issuer": "LinkedIn",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "cert-23",
+    "name": "Data Science Foundations: Knowledge Graphs",
+    "issuer": "LinkedIn",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "cert-24",
+    "name": "Power BI Essential Training",
+    "issuer": "LinkedIn",
+    "date": "May 2024"
+  },
+  {
+    "id": "cert-25",
+    "name": "Excel: Economic Analysis and Data Analytics",
+    "issuer": "LinkedIn",
+    "date": "May 2024"
+  },
+  {
+    "id": "cert-26",
+    "name": "Data Analytics for Business Professionals",
+    "issuer": "LinkedIn",
+    "date": "Apr 2024"
+  },
+  {
+    "id": "cert-27",
+    "name": "Business Intelligence for Consultants",
+    "issuer": "LinkedIn",
+    "date": "Apr 2024"
+  },
+  {
+    "id": "cert-28",
+    "name": "Excel for Data Analysts",
+    "issuer": "Analytics Mentor",
+    "date": "Mar 2024"
+  },
+  {
+    "id": "cert-29",
+    "name": "START Edição e composição de imagens",
+    "issuer": "Escola SAGA",
+    "date": "Jul 2015"
+  },
+  {
+    "id": "cert-30",
+    "name": "Treinamento SAP IBP",
+    "issuer": "Exed Consulting",
+    "date": "Jul 2022"
+  },
+  {
+    "id": "cert-31",
+    "name": "Introduction to Analytics",
+    "issuer": "Analytics Mentor",
+    "date": "Mar 2024"
+  },
+  {
+    "id": "cert-32",
+    "name": "SAP-PBI BUSINESS INTELLIGENCE 2.0 (EN)",
+    "issuer": "Gacint University",
+    "date": "Mar 2023"
+  },
+  {
+    "id": "cert-33",
+    "name": "SAP Professional 5.0 (EN)",
+    "issuer": "Gacint University",
+    "date": "Feb 2023"
+  },
+  {
+    "id": "cert-34",
+    "name": "Jornada Power BI - Treinamento Básico",
+    "issuer": "DATAB",
+    "date": "Feb 2023"
+  },
+  {
+    "id": "cert-35",
+    "name": "Minicurso Básico de Power BI",
+    "issuer": "DATAB",
+    "date": "Dec 2022"
+  },
+  {
+    "id": "cert-36",
+    "name": "Power BI: Dashboards para iniciantes",
+    "issuer": "LinkedIn",
+    "date": "Oct 2022"
+  },
+  {
+    "id": "cert-37",
+    "name": "Excel: Macros e VBA para Iniciantes",
+    "issuer": "LinkedIn",
+    "date": "Oct 2022"
+  },
+  {
+    "id": "cert-38",
+    "name": "Fundamentos da Tecnologia Blockchain",
+    "issuer": "LinkedIn",
+    "date": "Oct 2022"
+  },
+  {
+    "id": "cert-39",
+    "name": "Fundamentos de Análise de Dados",
+    "issuer": "LinkedIn",
+    "date": "Sep 2022"
+  },
+  {
+    "id": "cert-40",
+    "name": "Capacitação SAP to work (EN)",
+    "issuer": "AC International Group",
+    "date": "May 2022"
+  },
+  {
+    "id": "cert-41",
+    "name": "General English course - EF Level 7",
+    "issuer": "EF English Live",
+    "date": "Oct 2020"
+  },
+  {
+    "id": "cert-42",
+    "name": "Programa Business Express One & Workshop Pitch Reverso",
+    "issuer": "MyFirstIPO",
+    "date": "Jul 2020"
+  },
+  {
+    "id": "cert-43",
+    "name": "Innovation Management - The Embraer Case - IBS",
+    "issuer": "International Business School Americas",
+    "date": "Jul 2020"
+  },
+  {
+    "id": "cert-44",
+    "name": "Digital Transformation and the Future of Work Symposium - IBS",
+    "issuer": "International Business School Americas",
+    "date": "Jun 2020"
+  },
+  {
+    "id": "cert-45",
+    "name": "White Belt Lean Six Sigma",
+    "issuer": "Brains Desenvolvimento Profissional",
+    "date": "Jun 2020"
+  },
+  {
+    "id": "cert-46",
+    "name": "Como Fazer Investimentos 2",
+    "issuer": "FGV Online",
+    "date": "Mar 2020"
+  },
+  {
+    "id": "cert-47",
+    "name": "Como Fazer Investimentos 1",
+    "issuer": "FGV Online",
+    "date": "Mar 2020"
+  },
+  {
+    "id": "cert-48",
+    "name": "Introdução ao Tema Liderança",
+    "issuer": "FGV Online",
+    "date": "Jul 2020"
+  },
+  {
+    "id": "cert-49",
+    "name": "Scrum Foundation Professional Certificate (SFPC)",
+    "issuer": "Certiprof",
+    "date": "Jul 2020"
+  }
+]
